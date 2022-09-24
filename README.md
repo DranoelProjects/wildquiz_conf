@@ -1,6 +1,6 @@
 Politique de confidentialité
 
-Le jeu vidéo WildQuiz est détenu par Léonard Wambergue, aucune de vos données personnelles n'est collectée. 
+Le jeu vidéo WildQuiz est détenu par Léonard Wambergue, aucune de vos données personnelles n'est collectée SAUF pour la publicité. La liste des données collectées et de leurs usages est disponible ici : https://docs.unity.com/ads/GoogleDataSafety.html ou directement sur la fiche google play de WildQuiz
 
 Vous pouvez jouer à WildQuiz sans nous dire qui vous êtes ni révéler d'informations, par lesquelles quelqu'un pourrait vous identifier comme un individu spécifique et identifiable. 
 
